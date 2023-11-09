@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Diffusion models
+Currently working on Diffusion models, Conversational AI bot and Dental Image segmentation using MaskRCNN
 
 
 ## 🌐 Socials:
